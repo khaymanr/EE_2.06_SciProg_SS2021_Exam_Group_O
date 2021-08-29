@@ -1,0 +1,20 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5717;Wuppertal-Buchenhofen;JA_RR;01.01.1942;31.12.1947;6;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_FK;01.01.1943;31.12.1947;5;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TT;01.01.1923;31.12.1924;2;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TT;01.01.1943;31.12.1947;5;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TT;01.01.1949;31.12.1949;1;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TT;01.01.2018;31.12.2018;1;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TX;01.01.1923;31.12.1924;2;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TX;01.01.1943;31.12.1947;5;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TX;01.01.2018;31.12.2018;1;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TN;01.01.1923;31.12.1924;2;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TN;01.01.1943;31.12.1948;6;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_TN;01.01.2018;31.12.2018;1;;eor;                                                                                                                                          
+5717;Wuppertal-Buchenhofen;JA_N;01.01.1942;31.12.1947;6;;eor;                                                                                                                                           
+5717;Wuppertal-Buchenhofen;JA_MX_TX;01.01.1943;31.12.1947;5;;eor;                                                                                                                                       
+5717;Wuppertal-Buchenhofen;JA_MX_TX;01.01.2018;31.12.2018;1;;eor;                                                                                                                                       
+5717;Wuppertal-Buchenhofen;JA_MX_TN;01.01.1943;31.12.1948;5;;eor;                                                                                                                                       
+5717;Wuppertal-Buchenhofen;JA_MX_TN;01.01.2018;31.12.2018;1;;eor;                                                                                                                                       
+5717;Wuppertal-Buchenhofen;JA_MX_RS;01.01.1942;31.12.1947;5;;eor;                                                                                                                                       
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

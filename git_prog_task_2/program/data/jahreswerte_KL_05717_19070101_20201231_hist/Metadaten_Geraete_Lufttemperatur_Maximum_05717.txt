@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5717;Wuppertal-Buchenhofen;7.14;51.26;186;2.2;19080101;19231130;Maximumthermometer;Temperaturmessung, konv.;eor;
+5717;Wuppertal-Buchenhofen;7.15;51.25;178;2.2;19241201;19320331;Maximumthermometer;Temperaturmessung, konv.;eor;
+5717;Wuppertal-Buchenhofen;7.11;51.23;126;2.2;19320401;19421231;Maximumthermometer;Temperaturmessung, konv.;eor;
+5717;Wuppertal-Buchenhofen;7.11;51.23;126;2.2;19480101;20060831;Maximumthermometer;Temperaturmessung, konv.;eor;
+5717;Wuppertal-Buchenhofen;7.11;51.23;134;2;20060901;20210327;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

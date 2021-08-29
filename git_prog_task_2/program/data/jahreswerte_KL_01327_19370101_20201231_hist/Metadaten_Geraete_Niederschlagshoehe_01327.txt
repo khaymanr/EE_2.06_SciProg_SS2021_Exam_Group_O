@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1327;Euskirchen;;;;;18910101;18920430;Gerätetyp unbekannt;Niederschlagsmenge, konv.;eor;
+1327;Euskirchen;6.78;50.67;160;1;18920501;19300718;Hellmann;Niederschlagsmenge, konv.;eor;
+1327;Euskirchen;6.78;50.65;170;1;19300719;19531126;Hellmann;Niederschlagsmenge, konv.;eor;
+1327;Euskirchen;6.78;50.65;164;1;19531127;19560702;Hellmann;Niederschlagsmenge, konv.;eor;
+1327;Euskirchen;6.79;50.65;178;1;19560703;19940415;Hellmann;Niederschlagsmenge, konv.;eor;
+1327;Euskirchen;6.79;50.67;160;1;19940416;20030831;Hellmann;Niederschlagsmenge, konv.;eor;
+1327;Weilerswist-Lommersum;6.79;50.71;147;1;20040801;20200426;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1327;Weilerswist-Lommersum;6.79;50.71;147;1;20200427;20210327;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

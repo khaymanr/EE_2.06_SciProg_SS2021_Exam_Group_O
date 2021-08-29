@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2483;Kahler Asten;8.49;51.18;835;;19550101;19551231;Sonnenscheinschreiber, unbekannt;Sonnenscheinregistrierung, konv.;eor;
+2483;Kahler Asten;8.49;51.18;835;3;19550101;19551231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2483;Kahler Asten;8.49;51.18;835;21.55;19560101;19630630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2483;Kahler Asten;8.49;51.18;839;21.55;19630701;19951130;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+2483;Kahler Asten;8.49;51.18;839;19.82;19951024;20030225;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2483;Kahler Asten;8.49;51.18;839;23;20030226;20060530;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2483;Kahler Asten;8.49;51.18;839;23;20060531;20070327;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+2483;Kahler Asten;8.49;51.18;839;21.55;20070328;20190618;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+2483;Kahler Asten;8.49;51.18;839;21.55;20190624;20210327;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

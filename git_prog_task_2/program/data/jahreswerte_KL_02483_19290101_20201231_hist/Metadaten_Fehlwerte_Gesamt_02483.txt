@@ -1,0 +1,12 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2483;Kahler Asten;JA_RR;01.01.1929;31.12.2020;17;Gesamt_Messzeitraum;eor;                                                                                                                               
+2483;Kahler Asten;JA_FK;01.01.1929;31.12.2018;17;Gesamt_Messzeitraum;eor;                                                                                                                               
+2483;Kahler Asten;JA_TT;01.01.1929;31.12.2020;17;Gesamt_Messzeitraum;eor;                                                                                                                               
+2483;Kahler Asten;JA_TX;01.01.1929;31.12.2020;17;Gesamt_Messzeitraum;eor;                                                                                                                               
+2483;Kahler Asten;JA_TN;01.01.1929;31.12.2020;17;Gesamt_Messzeitraum;eor;                                                                                                                               
+2483;Kahler Asten;JA_N;01.01.1929;31.12.2016;17;Gesamt_Messzeitraum;eor;                                                                                                                                
+2483;Kahler Asten;JA_MX_TX;01.01.1929;31.12.2020;17;Gesamt_Messzeitraum;eor;                                                                                                                            
+2483;Kahler Asten;JA_MX_TN;01.01.1929;31.12.2020;17;Gesamt_Messzeitraum;eor;                                                                                                                            
+2483;Kahler Asten;JA_MX_FX;01.01.1929;31.12.2020;10;Gesamt_Messzeitraum;eor;                                                                                                                            
+2483;Kahler Asten;JA_MX_RS;01.01.1929;31.12.2020;19;Gesamt_Messzeitraum;eor;                                                                                                                            
+2483;Kahler Asten;JA_SD_S;01.01.1929;31.12.2020;1;Gesamt_Messzeitraum;eor;                                                                                                                              

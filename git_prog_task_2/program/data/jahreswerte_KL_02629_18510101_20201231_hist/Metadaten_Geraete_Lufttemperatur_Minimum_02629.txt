@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2629;Kleve;6.14;51.78;50;2;18810101;18980831;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.15;51.8;14;2;18980901;19050731;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.12;51.78;46;2;19050801;19471116;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.15;51.8;13;2;19471117;19520831;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.13;51.78;44;2;19520901;19540731;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.14;51.79;36;2;19540801;19640113;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.13;51.79;22;2;19640114;19720628;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.15;51.77;45;2;19720629;19910630;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.1;51.76;46;2.2;19920601;20040630;Minimumthermometer;Temperaturmessung, konv.;eor;
+2629;Kleve;6.1;51.76;46;2;20040701;20210327;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

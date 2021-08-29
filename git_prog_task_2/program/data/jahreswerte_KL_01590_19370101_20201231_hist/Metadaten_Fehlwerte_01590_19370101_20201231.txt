@@ -1,0 +1,9 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1590;Geldern-Walbeck;JA_RR;01.01.1945;31.12.1946;2;Kriegsjahre;eor;                                                                                                                                     
+1590;Geldern-Walbeck;JA_TT;01.01.1945;31.12.1963;19;;eor;                                                                                                                                               
+1590;Geldern-Walbeck;JA_TX;01.01.1945;31.12.1963;19;;eor;                                                                                                                                               
+1590;Geldern-Walbeck;JA_TN;01.01.1945;31.12.1963;19;;eor;                                                                                                                                               
+1590;Geldern-Walbeck;JA_TN;01.01.2004;31.12.2004;1;;eor;                                                                                                                                                
+1590;Geldern-Walbeck;JA_MX_TN;01.01.2004;31.12.2004;1;;eor;                                                                                                                                             
+1590;Geldern-Walbeck;JA_MX_RS;01.01.1945;31.12.1946;2;Kriegsjahre;eor;                                                                                                                                  
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1327;Weilerswist-Lommersum;JA_RR;01.01.1937;31.12.2020;4;Gesamt_Messzeitraum;eor;                                                                                                                       
+1327;Weilerswist-Lommersum;JA_FK;01.01.1937;31.12.2011;5;Gesamt_Messzeitraum;eor;                                                                                                                       
+1327;Weilerswist-Lommersum;JA_TT;01.01.1937;31.12.2020;5;Gesamt_Messzeitraum;eor;                                                                                                                       
+1327;Weilerswist-Lommersum;JA_TX;01.01.1937;31.12.2020;5;Gesamt_Messzeitraum;eor;                                                                                                                       
+1327;Weilerswist-Lommersum;JA_TN;01.01.1937;31.12.2020;5;Gesamt_Messzeitraum;eor;                                                                                                                       
+1327;Weilerswist-Lommersum;JA_N;01.01.1937;31.12.2011;5;Gesamt_Messzeitraum;eor;                                                                                                                        
+1327;Weilerswist-Lommersum;JA_MX_TX;01.01.1937;31.12.2020;3;Gesamt_Messzeitraum;eor;                                                                                                                    
+1327;Weilerswist-Lommersum;JA_MX_TN;01.01.1937;31.12.2020;3;Gesamt_Messzeitraum;eor;                                                                                                                    
+1327;Weilerswist-Lommersum;JA_MX_RS;01.01.1937;31.12.2020;3;Gesamt_Messzeitraum;eor;                                                                                                                    
+1327;Weilerswist-Lommersum;JA_SD_S;01.01.1937;31.12.2020;20;Gesamt_Messzeitraum;eor;                                                                                                                    

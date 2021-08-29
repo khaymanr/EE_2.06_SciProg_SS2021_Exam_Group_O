@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1327;Euskirchen;6.79;50.65;178;1.8;19570101;19781231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1327;Euskirchen;6.79;50.67;160;2.7;19940901;20030831;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1327;Weilerswist-Lommersum;6.79;50.71;147;6;20040801;20191128;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1327;Weilerswist-Lommersum;6.79;50.71;147;6;20191227;20210327;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

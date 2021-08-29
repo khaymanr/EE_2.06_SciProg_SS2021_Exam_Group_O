@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1300;Eslohe;;;;;18910101;18910630;Gerätetyp unbekannt;Niederschlagsmenge, konv.;eor;
+1300;Eslohe;8.17;51.25;312;1;18910701;19370131;Hellmann;Niederschlagsmenge, konv.;eor;
+1300;Eslohe;8.17;51.26;320;1;19370201;19441231;Hellmann;Niederschlagsmenge, konv.;eor;
+1300;Eslohe;8.17;51.26;320;1;19460501;19991231;Hellmann;Niederschlagsmenge, konv.;eor;
+1300;Eslohe;8.16;51.25;351;1;20040601;20150506;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1300;Eslohe;8.16;51.25;351;1;20151001;20190409;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1300;Eslohe;8.16;51.25;351;1;20190410;20210327;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

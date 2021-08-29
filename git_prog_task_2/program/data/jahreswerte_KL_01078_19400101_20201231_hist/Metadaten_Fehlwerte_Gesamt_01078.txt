@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1078;Düsseldorf;JA_RR;01.01.1940;31.12.2020;25;Gesamt_Messzeitraum;eor;                                                                                                                                 
+1078;Düsseldorf;JA_TT;01.01.1940;31.12.2020;25;Gesamt_Messzeitraum;eor;                                                                                                                                 
+1078;Düsseldorf;JA_TN;01.01.1940;31.12.2020;25;Gesamt_Messzeitraum;eor;                                                                                                                                 
+1078;Düsseldorf;JA_MX_FX;01.01.1940;31.12.2020;6;Gesamt_Messzeitraum;eor;                                                                                                                               
+1078;Düsseldorf;JA_SD_S;01.01.1940;31.12.2020;5;Gesamt_Messzeitraum;eor;                                                                                                                                

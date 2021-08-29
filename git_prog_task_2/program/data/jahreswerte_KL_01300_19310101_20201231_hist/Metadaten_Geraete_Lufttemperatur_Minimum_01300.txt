@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1300;Eslohe;8.17;51.25;312;2.2;19370101;19370131;Minimumthermometer;Temperaturmessung, konv.;eor;
+1300;Eslohe;8.17;51.26;320;2.2;19370201;19441231;Minimumthermometer;Temperaturmessung, konv.;eor;
+1300;Eslohe;8.17;51.26;320;2.2;19460501;19991231;Minimumthermometer;Temperaturmessung, konv.;eor;
+1300;Eslohe;8.16;51.25;351;2;20040601;20150506;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1300;Eslohe;8.16;51.25;351;2;20151001;20210327;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --
