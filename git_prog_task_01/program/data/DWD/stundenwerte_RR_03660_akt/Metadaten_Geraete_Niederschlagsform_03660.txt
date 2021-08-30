@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;20120530;20191127;Laser Niederschlags Monitor;Niederschlagsart, elektr.;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;20191128;20210825;Laser Niederschlags Monitor TYP2;Niederschlagsart, elektr.;eor;
+generiert: 26.08.2021 --  Deutscher Wetterdienst  --

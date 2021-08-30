@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3660;Nürburg-Barweiler;R1;28.12.2020-10:00;29.12.2020-09:00;23;;eor;                                                                                                                                    
+3660;Nürburg-Barweiler;R1;14.07.2021-17:00;20.07.2021-09:00;136;;eor;                                                                                                                                   
+3660;Nürburg-Barweiler;RS_IND;28.12.2020-10:00;29.12.2020-09:00;23;;eor;                                                                                                                                
+3660;Nürburg-Barweiler;RS_IND;14.07.2021-17:00;20.07.2021-09:00;136;;eor;                                                                                                                               
+3660;Nürburg-Barweiler;WRTR;14.07.2021-17:00;20.07.2021-09:00;136;;eor;                                                                                                                                 
+generiert: 26.08.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

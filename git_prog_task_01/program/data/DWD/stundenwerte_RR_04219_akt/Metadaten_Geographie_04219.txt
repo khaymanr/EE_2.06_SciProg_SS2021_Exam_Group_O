@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  4219;  520.00; 50.4052;  6.8802;19021201;19681209;Rodder
+  4219;  505.00; 50.3939;  6.8586;19681210;19960331;Rodder
+  4219;  512.00; 50.3965;  6.8568;19960401;        ;Rodder

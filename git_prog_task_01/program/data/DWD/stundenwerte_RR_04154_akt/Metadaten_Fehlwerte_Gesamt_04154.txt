@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+4154;Remscheid-Lennep;R1;01.02.2011-00:00;01.07.2018-06:00;290;Gesamt_Messzeitraum;eor;                                                                                                                 
+4154;Remscheid-Lennep;RS_IND;01.02.2011-00:00;01.07.2018-06:00;290;Gesamt_Messzeitraum;eor;                                                                                                             
+4154;Remscheid-Lennep;WRTR;01.02.2011-01:00;10.01.2012-02:00;266;Gesamt_Messzeitraum;eor;                                                                                                               

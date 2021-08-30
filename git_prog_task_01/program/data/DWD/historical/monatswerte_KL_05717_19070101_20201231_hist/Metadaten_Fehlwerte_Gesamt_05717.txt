@@ -1,0 +1,10 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+5717;Wuppertal-Buchenhofen;MO_RR;01.01.1907;31.03.2021;61;Gesamt_Messzeitraum;eor;                                                                                                                      
+5717;Wuppertal-Buchenhofen;MO_FK;01.01.1907;31.12.2011;60;Gesamt_Messzeitraum;eor;                                                                                                                      
+5717;Wuppertal-Buchenhofen;MO_TT;01.01.1907;31.03.2021;74;Gesamt_Messzeitraum;eor;                                                                                                                      
+5717;Wuppertal-Buchenhofen;MO_TX;01.01.1907;31.03.2021;73;Gesamt_Messzeitraum;eor;                                                                                                                      
+5717;Wuppertal-Buchenhofen;MX_TX;01.01.1907;11.04.2021;1833;Gesamt_Messzeitraum;eor;                                                                                                                    
+5717;Wuppertal-Buchenhofen;MX_TN;01.01.1907;11.04.2021;1864;Gesamt_Messzeitraum;eor;                                                                                                                    
+5717;Wuppertal-Buchenhofen;MX_RS;01.01.1907;11.04.2021;1827;Gesamt_Messzeitraum;eor;                                                                                                                    
+5717;Wuppertal-Buchenhofen;MO_TN;01.01.1907;31.03.2021;74;Gesamt_Messzeitraum;eor;                                                                                                                      
+5717;Wuppertal-Buchenhofen;MO_N;01.01.1907;31.12.2011;61;Gesamt_Messzeitraum;eor;                                                                                                                       

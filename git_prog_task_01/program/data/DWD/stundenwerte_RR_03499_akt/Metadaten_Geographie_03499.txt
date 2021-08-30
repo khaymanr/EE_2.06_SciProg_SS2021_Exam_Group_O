@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3499;  296.00; 51.2893;  7.8490;19820401;20060630;Neuenrade-Blintrop
+  3499;  292.00; 51.2915;  7.8530;20060701;        ;Neuenrade-Blintrop

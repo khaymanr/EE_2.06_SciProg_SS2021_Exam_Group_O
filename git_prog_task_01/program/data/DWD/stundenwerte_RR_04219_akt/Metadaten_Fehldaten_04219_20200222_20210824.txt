@@ -1,0 +1,16 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+4219;Rodder;R1;22.02.2020;25.08.2021;84;Gesamt_Messzeitraum;eor;                                                                                                                                        
+4219;Rodder;RS_IND;22.02.2020;25.08.2021;84;Gesamt_Messzeitraum;eor;                                                                                                                                    
+4219;Rodder;WRTR;22.02.2020;26.08.2021; - ;WRTR wurde nicht gemessen.;eor;                                                                                                                              
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4219;Rodder;R1;06.07.2021-00:00;07.07.2021-06:00;30;;eor;                                                                                                                                               
+4219;Rodder;R1;14.07.2021-17:00;14.07.2021-18:00;1;;eor;                                                                                                                                                
+4219;Rodder;R1;17.07.2021-07:00;19.07.2021-06:00;47;;eor;                                                                                                                                               
+4219;Rodder;R1;19.08.2021-01:00;19.08.2021-02:00;1;;eor;                                                                                                                                                
+4219;Rodder;R1;23.08.2021-09:00;23.08.2021-14:00;5;;eor;                                                                                                                                                
+4219;Rodder;RS_IND;06.07.2021-00:00;07.07.2021-06:00;30;;eor;                                                                                                                                           
+4219;Rodder;RS_IND;14.07.2021-17:00;14.07.2021-18:00;1;;eor;                                                                                                                                            
+4219;Rodder;RS_IND;17.07.2021-07:00;19.07.2021-06:00;47;;eor;                                                                                                                                           
+4219;Rodder;RS_IND;19.08.2021-01:00;19.08.2021-02:00;1;;eor;                                                                                                                                            
+4219;Rodder;RS_IND;23.08.2021-09:00;23.08.2021-14:00;5;;eor;                                                                                                                                            
+generiert: 25.08.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

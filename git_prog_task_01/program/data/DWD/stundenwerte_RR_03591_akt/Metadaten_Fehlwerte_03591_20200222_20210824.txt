@@ -1,0 +1,16 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3591;Nideggen-Schmidt;R1;26.02.2020-22:00;27.02.2020-07:00;9;;eor;                                                                                                                                      
+3591;Nideggen-Schmidt;R1;28.01.2021-13:00;28.01.2021-23:00;10;;eor;                                                                                                                                     
+3591;Nideggen-Schmidt;R1;29.01.2021-06:00;29.01.2021-17:00;11;;eor;                                                                                                                                     
+3591;Nideggen-Schmidt;R1;29.01.2021-19:00;30.01.2021-00:00;5;;eor;                                                                                                                                      
+3591;Nideggen-Schmidt;R1;30.01.2021-17:00;31.01.2021-02:00;9;;eor;                                                                                                                                      
+3591;Nideggen-Schmidt;R1;31.01.2021-16:00;01.02.2021-08:00;16;;eor;                                                                                                                                     
+3591;Nideggen-Schmidt;R1;15.07.2021-17:00;16.07.2021-06:00;13;;eor;                                                                                                                                     
+3591;Nideggen-Schmidt;RS_IND;26.02.2020-22:00;27.02.2020-07:00;9;;eor;                                                                                                                                  
+3591;Nideggen-Schmidt;RS_IND;28.01.2021-13:00;28.01.2021-23:00;10;;eor;                                                                                                                                 
+3591;Nideggen-Schmidt;RS_IND;29.01.2021-06:00;29.01.2021-17:00;11;;eor;                                                                                                                                 
+3591;Nideggen-Schmidt;RS_IND;29.01.2021-19:00;30.01.2021-00:00;5;;eor;                                                                                                                                  
+3591;Nideggen-Schmidt;RS_IND;30.01.2021-17:00;31.01.2021-02:00;9;;eor;                                                                                                                                  
+3591;Nideggen-Schmidt;RS_IND;31.01.2021-16:00;01.02.2021-08:00;16;;eor;                                                                                                                                 
+3591;Nideggen-Schmidt;RS_IND;15.07.2021-17:00;16.07.2021-06:00;13;;eor;                                                                                                                                 
+generiert: 25.08.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4219;Rodder;6.86;50.4;512;1.5;20041001;20180925;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4219;Rodder;6.86;50.4;512;1.5;20181011;20200804;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4219;Rodder;6.86;50.4;512;1.5;20200805;20210824;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 25.08.2021 --  Deutscher Wetterdienst  --
