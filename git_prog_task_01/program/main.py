@@ -25,15 +25,27 @@ df = df.rename(columns={" Length (km)": "length", " Area (km^2)": "area"}, error
 
 # Here is the code for plotting and showing both graphs. Top one is related to length, bottom one is related to area.
 # On both I set different colours and rotated the river names 45 degrees, for aesthetic reasons.
-'''
-plt.bar(x=df.index, height=df["Length"], color="red")
+fig1, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 8))
+ax1.bar(x=df.index, height=df['length'], color="red")
+ax1.set_title("Catchment Length of each River")
+ax1.set_xlabel("River Names")
+ax1.set_ylabel("Length in m")
+
+ax2.bar(x=df.index, height=df['area'], color="blue")
+ax2.set_title("Catchment Area of each River")
+ax2.set_xlabel("River Names")
+ax2.set_ylabel("Area in $m^2$")
+
+# plt.show()
+
+'''plt.bar(x=df.index, height=df["length"], color="red")
 plt.xticks(rotation=45)
 plt.show()
 
-plt.bar(x=df.index, height=df["Area"], color="blue")
+plt.bar(x=df.index, height=df["area"], color="blue")
 plt.xticks(rotation=45)
-plt.show()
-'''
+plt.show()'''
+
 # For the analysis of the cumulative precipitation, code copied from the assignment page
 
 # This interval catches the severe rain event.
@@ -415,3 +427,9 @@ vol_rr_ruhr = vol_rr(df['area'].loc['Ruhr'], df['max_rr'].loc['Ruhr'])
 
 # Checking the values
 # print(vol_rr_rur, vol_rr_erft, vol_rr_ahr, vol_rr_wupper, vol_rr_ruhr)
+
+array = df["Global tilt  W*m-2*nm-1"]
+print(array)
+
+
+
